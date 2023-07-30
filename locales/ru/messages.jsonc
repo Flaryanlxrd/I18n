@@ -588,16 +588,16 @@
   // Experience passes stuff, we discard roblox's version and remake all of it
   // filtering stuff
   "experience_passes_filtering_offsale": {
-    "message": "Включить неактивные пропуски"
+    "message": "Показать неактивные пропуски"
   },
   "experience_passes_filtering_onsale": {
-    "message": "Включить активные пропуски"
+    "message": "Показать активные пропуски"
   },
   "experience_passes_filtering_unowned": {
-    "message": "Включить неимеющие пропуски"
+    "message": "Показать неимеющиеся пропуски"
   },
   "experience_passes_filtering_owned": {
-    "message": "Включить имеющие пропуски"
+    "message": "Показать имеющиеся пропуски"
   },
   // Viewing as a specific user
   "experience_passes_filtering_user": {
@@ -612,7 +612,7 @@
   },
   // Indicates that there is none from your search from the filters, but can change if filtering options are changed
   "experience_passes_nopassesfiltered": {
-    "message": "Нет пропусков, полученных из вашего поиска."
+    "message": "Нет пропусков, полученных из поиска."
   },
   "experience_passes_entry_owned": {
     "message": "Имеется"
